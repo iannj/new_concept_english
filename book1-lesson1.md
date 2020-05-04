@@ -13,5 +13,3 @@ Is this your handbag?
 Yes, it is.
 
 Thank you very much.
-
-test
